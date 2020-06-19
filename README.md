@@ -12,7 +12,7 @@
 9. [Xiaofeng Wang*. Costly Participation and The Evolution of Cooperation in the Repeated Public Goods Game. Dynamic Games and Applications. (2020)](https://doi.org/10.1007/s13235-020-00352-1)
 
 
-// You can use the [editor on GitHub](https://github.com/evolutionarydynamics/evolutionarydynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+/* You can use the [editor on GitHub](https://github.com/evolutionarydynamics/evolutionarydynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. */
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
