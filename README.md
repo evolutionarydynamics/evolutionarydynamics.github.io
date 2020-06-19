@@ -1,6 +1,8 @@
 # Focus on the Study of Evolutionary Dynamics
 ## Xiaofeng Wang | Email: rokywang1987@gmail.com
 ### Publication List:
+1. [Wang, X., Perc, M., Liu, Y. et al. Beyond pairwise strategy updating in the prisoner's dilemma game. Sci Rep 2, 740 (2012).](https://doi.org/10.1038/srep00740)
+2. 
 
 You can use the [editor on GitHub](https://github.com/evolutionarydynamics/evolutionarydynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
