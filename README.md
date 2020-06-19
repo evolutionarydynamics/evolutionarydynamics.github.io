@@ -1,4 +1,6 @@
-## Welcome!
+# Focus on the Study of Evolutionary Dynamics
+## Xiaofeng Wang
+### Email: rokywang1987@gmail.com
 
 You can use the [editor on GitHub](https://github.com/evolutionarydynamics/evolutionarydynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
