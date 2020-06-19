@@ -10,4 +10,4 @@
 7. [Xiaofeng Wang, Xiaojie Chen and Long Wang*. Evolution of egalitarian social norm by resource management. PLOS ONE. (2020)](https://doi.org/10.1371/journal.pone.0227902)
 8. [Xiaofeng Wang* , Maja Duh and Matjaž Perc*. Pool expulsion and cooperation in the spatial public goods game. Physics Letters A. (2020)](https://doi.org/10.1016/j.physleta.2020.126391)
 9. [Xiaofeng Wang*. Costly Participation and The Evolution of Cooperation in the Repeated Public Goods Game. Dynamic Games and Applications. (2020)](https://doi.org/10.1007/s13235-020-00352-1)
-10. [Xiaofeng Wang and Weijian Kong*. Spatial Dynamics of the Public Goods Game with Probabilistic Participation. in Proceedings of 39th Chinese Control Conference. In Press.]
+10. [Xiaofeng Wang and Weijian Kong*. Spatial Dynamics of the Public Goods Game with Probabilistic Participation. in Proceedings of 39th Chinese Control Conference. In Press.]()
