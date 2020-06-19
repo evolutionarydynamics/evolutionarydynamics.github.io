@@ -1,8 +1,9 @@
 # Focus on the Study of Evolutionary Dynamics
 ## Xiaofeng Wang | Email: rokywang1987@gmail.com
 ### Publication List:
-1. [Xiaofeng Wang, Matjaž Perc, Yongkui Liu, Xiaojie Chen and Long Wang. Beyond pairwise strategy updating in the prisoner's dilemma game. Nature Scientific Reports 2, 740 (2012).](https://doi.org/10.1038/srep00740)
-2. []()
+1. [Xiaofeng Wang, Matjaž Perc, Yongkui Liu, Xiaojie Chen and Long Wang. Beyond pairwise strategy updating in the prisoner's dilemma game. Nature Scientific Reports.](https://doi.org/10.1038/srep00740)
+2. [Xiaofeng Wang, Xiaojie Chen, Jia Gao and Long Wang. Reputation-based mutual selection rule promotes cooperation in spatial threshold public goods games. Chaos, Solitons & Fractals.](https://doi.org/10.1016/j.chaos.2013.07.019)
+3. []()
 
 You can use the [editor on GitHub](https://github.com/evolutionarydynamics/evolutionarydynamics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
